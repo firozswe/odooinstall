@@ -1,1 +1,1 @@
-# odooinstall
+# odoo install
